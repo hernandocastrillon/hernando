@@ -1,0 +1,55 @@
+.titulo{
+    color: rgb(0, 0, 0);
+    font-size: 80px;
+}
+
+.hola{
+    color: rgb(120, 44, 196);
+}
+#charset
+*{
+    margin:0px;
+    padding: 0px;  
+}
+h1{
+    font:bold 20px verdena, geneva, sans-serif;
+}
+h2{
+    font:bold 14px verdena, geneva, sans-serif;
+}
+body{
+    text-align: center;
+}
+#cuerpo{
+    width:960px;
+    margin:15px;
+    text-align: left;
+}
+
+.encabezado{
+    background: #ffffff;
+    border: 1px solid #999999;
+    padding: 20px;
+}
+#menu{
+    background: #ffffff;
+    padding: 5px 15px;
+}
+#seccion{
+    float: left;
+    width: 660px;
+    margin: 20px;
+}
+#lateral{
+    float:left ;
+    width: 220px;
+    margin: 20px 0px;
+    padding: 20px;
+    background: #cccccc;
+}
+#pie{
+    clear:both;
+    text-align:center;
+    padding:20px;
+    border-top: 5px solid #e7dada;
+}
